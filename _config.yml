@@ -1,1 +1,6 @@
 theme: minima
+title: Jack needs to keep a logbook
+author: Jack Fannon
+
+header_pages:
+  - README.md
